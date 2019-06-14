@@ -1,1 +1,1 @@
-# webdemo
+# webpack --mode development
